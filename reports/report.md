@@ -26,7 +26,7 @@
 
 The elbow plot shows the distortion (sum of squared distances to the nearest cluster center) for different values of the number of clusters for the KMeans algorithm. The optimal number of clusters is usually at the 'elbow' of the plot, where the distortion starts to decrease more slowly.
 
-![Elbow Plot](reports/figures/png/elbow.png)
+![Elbow Plot](./figures/png/elbow.png)
 
 ### Dendrogram Plot
 
