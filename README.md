@@ -2,6 +2,12 @@
 
 This project performs geospatial clustering on a dataset of latitude and longitude coordinates to identify clusters of points.
 
+you can see [**Clustering Report**](reports/report.md)
+
+## Clustering Report
+I have performed clustering analysis on the dataset and the results can be found in **reports** folder.
+you can also see Clustering report [here](reports/report.md)
+
 
 ## Installation
 
