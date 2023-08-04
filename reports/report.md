@@ -32,7 +32,7 @@ The elbow plot shows the distortion (sum of squared distances to the nearest clu
 
 The dendrogram plot shows the hierarchical clustering of the data using the AgglomerativeClustering algorithm with Ward linkage. The x-axis shows the data points and the y-axis shows the distance between clusters. The horizontal lines represent the merging of two clusters. The optimal number of clusters can be determined by cutting the dendrogram at a specific height.
 
-![Dendrogram Plot](reports/figures/png/dendrogram.png)
+![Dendrogram Plot](./figures/png/dendrogram.png)
 
 ### KMeans
 
@@ -40,19 +40,19 @@ The dendrogram plot shows the hierarchical clustering of the data using the Aggl
 
 The cluster plot shows the geographical distribution of the clusters for the KMeans algorithm. Each color represents a different cluster.
 
-![KMeans Cluster Plot](reports/figures/png/KMeans.png)
+![KMeans Cluster Plot](./figures/png/KMeans.png)
 
 #### Cluster Counts Plot
 
 The cluster counts plot shows the number of data points in each cluster for the KMeans algorithm.
 
-![KMeans Cluster Counts Plot](reports/figures/png/KMeans_counts.png)
+![KMeans Cluster Counts Plot](./figures/png/KMeans_counts.png)
 
 #### Cluster Pie Chart
 
 The cluster pie chart shows the proportion of data points in each cluster for the KMeans algorithm.
 
-![KMeans Cluster Pie Chart](reports/figures/png/KMeans_pie.png)
+![KMeans Cluster Pie Chart](./figures/png/KMeans_pie.png)
 
 ### AgglomerativeClustering_Ward
 
@@ -60,19 +60,19 @@ The cluster pie chart shows the proportion of data points in each cluster for th
 
 The cluster plot shows the geographical distribution of the clusters for the AgglomerativeClustering_Ward algorithm. Each color represents a different cluster.
 
-![AgglomerativeClustering_Ward Cluster Plot](reports/figures/png/AgglomerativeClustering_Ward.png)
+![AgglomerativeClustering_Ward Cluster Plot](./figures/png/AgglomerativeClustering_Ward.png)
 
 #### Cluster Counts Plot
 
 The cluster counts plot shows the number of data points in each cluster for the AgglomerativeClustering_Ward algorithm.
 
-![AgglomerativeClustering_Ward Cluster Counts Plot](reports/figures/png/AgglomerativeClustering_Ward_counts.png)
+![AgglomerativeClustering_Ward Cluster Counts Plot](./figures/png/AgglomerativeClustering_Ward_counts.png)
 
 #### Cluster Pie Chart
 
 The cluster pie chart shows the proportion of data points in each cluster for the AgglomerativeClustering_Ward algorithm.
 
-![AgglomerativeClustering_Ward Cluster Pie Chart](reports/figures/png/AgglomerativeClustering_Ward_pie.png)
+![AgglomerativeClustering_Ward Cluster Pie Chart](./figures/png/AgglomerativeClustering_Ward_pie.png)
 
 ### AgglomerativeClustering_Average
 
@@ -80,17 +80,17 @@ The cluster pie chart shows the proportion of data points in each cluster for th
 
 The cluster plot shows the geographical distribution of the clusters for the AgglomerativeClustering_Average algorithm. Each color represents a different cluster.
 
-![AgglomerativeClustering_Average Cluster Plot](reports/figures/png/AgglomerativeClustering_Average.png)
+![AgglomerativeClustering_Average Cluster Plot](./figures/png/AgglomerativeClustering_Average.png)
 
 #### Cluster Counts Plot
 
 The cluster counts plot shows the number of data points in each cluster for the AgglomerativeClustering_Average algorithm.
 
-![AgglomerativeClustering_Average Cluster Counts Plot](reports/figures/png/AgglomerativeClustering_Average_counts.png)
+![AgglomerativeClustering_Average Cluster Counts Plot](./figures/png/AgglomerativeClustering_Average_counts.png)
 
 #### Cluster Pie Chart
 
 The cluster pie chart shows the proportion of data points in each cluster for the AgglomerativeClustering_Average algorithm.
 
-![AgglomerativeClustering_Average Cluster Pie Chart](reports/figures/png/AgglomerativeClustering_Average_pie.png)
+![AgglomerativeClustering_Average Cluster Pie Chart](./figures/png/AgglomerativeClustering_Average_pie.png)
 
