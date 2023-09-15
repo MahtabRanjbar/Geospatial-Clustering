@@ -2,23 +2,11 @@
 
 ## Scores
 
-### KMeans
-
-- Silhouette: 0.5480409591312594
-- Calinski-Harabasz: 12366.437407608277
-- Davies-Bouldin: 0.7560107616412011
-
-### AgglomerativeClustering_Ward
-
-- Silhouette: 0.408255580204174
-- Calinski-Harabasz: 10769.320427165258
-- Davies-Bouldin: 0.9372969657937595
-
-### AgglomerativeClustering_Average
-
-- Silhouette: 0.5384075307113992
-- Calinski-Harabasz: 8167.24126839105
-- Davies-Bouldin: 0.6199587193568465
+| Model                        | Silhouette | Calinski-Harabasz | Davies-Bouldin |
+|------------------------------|-------------|-------------------|----------------|
+| KMeans                       | 0.5480      | 12366.4374        | 0.7560         |
+| AgglomerativeClustering_Ward | 0.4083      | 10769.3204        | 0.9373         |
+| AgglomerativeClustering_Avg  | 0.5384      | 8167.2413         | 0.6199         |
 
 ## Plots
 

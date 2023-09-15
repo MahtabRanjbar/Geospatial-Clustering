@@ -4,7 +4,7 @@ This project performs geospatial clustering on a dataset of latitude and longitu
 
 ## Clustering Report
 I have performed clustering analysis on the dataset and the results can be found in **reports** folder.
-you can also see Clustering report [here](reports/report.md)
+you can also see Clustering report [here](reports/README.md)
 
 
 ## Installation
